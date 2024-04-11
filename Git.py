@@ -20,6 +20,4 @@ def encode(string):
         encoded_string += ''.join(lis[i])
     return encoded_string
 
-print(encode('12345555'))
-print_menu()
 
